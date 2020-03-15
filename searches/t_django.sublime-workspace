@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"st",
+				"staticfiles"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"B",
+				"BlogPostQuerySet"
+			],
+			[
+				"Blo",
+				"BlogPostForm"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"con",
+				"Contact_page"
+			],
+			[
+				"b",
+				"blog_post_create_view"
+			],
+			[
+				"p",
+				"post_id"
+			],
+			[
+				"bl",
+				"blog"
+			],
+			[
+				"red",
+				"rendered_string"
+			],
+			[
+				"re",
+				"rendered_string"
+			],
+			[
+				"t",
+				"template_obj"
+			],
+			[
+				"temp",
+				"template_name"
+			],
+			[
+				"hello",
+				"hello_world"
+			],
+			[
+				"h",
+				"HttpResponse"
+			],
+			[
+				"blo",
+				"blog_list"
+			],
+			[
+				"sea",
+				"search_view"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"u",
+				"urlpatterns"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"pu",
+				"published"
+			],
+			[
+				"Bl",
+				"BlogPostQuerySet"
+			],
+			[
+				"g",
+				"get_queryset"
+			],
+			[
+				"ge",
+				"get_absolute_url"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"C",
+				"ContactForm"
+			],
+			[
+				"get",
+				"get_objects_or_404"
+			],
+			[
+				"blog",
+				"blog_post_detail_page"
+			],
+			[
+				"rende",
+				"rendered_string"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"rend",
+				"rendered_item"
+			],
+			[
+				"ex",
+				"example_page"
+			],
+			[
+				"he",
+				"hello_world"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Ht",
+				"http404"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"fo",
+				"forward"
+			],
+			[
+				"cu",
+				"customer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/arif/jasmin/django"
+	],
+	"file_history":
+	[
+		"/home/arif/jasmin/try_django/src/searches/views.py",
+		"/home/arif/jasmin/try_django/src/blog/models.py",
+		"/home/arif/jasmin/try_django/src/searches/templates/searches/view.html",
+		"/home/arif/jasmin/try_django/src/searches/admin.py",
+		"/home/arif/jasmin/try_django/src/try_django/settings.py",
+		"/home/arif/jasmin/try_django/src/try_django/urls.py",
+		"/home/arif/jasmin/try_django/src/templates/navbar.html",
+		"/home/arif/jasmin/try_django/src/searches/models.py",
+		"/home/arif/jasmin/try_django/src/blog/templates/blog/list-inline.html",
+		"/home/arif/jasmin/try_django/src/blog/views.py",
+		"/home/arif/jasmin/try_django/static_cdn_test/blank/blank.txt",
+		"/home/arif/jasmin/try_django/src/templates/form.html",
+		"/home/arif/jasmin/try_django/src/blog/forms.py",
+		"/home/arif/jasmin/try_django/src/blog/staticfiles/blank.txt",
+		"/home/arif/jasmin/try_django/src/try_django/views.py",
+		"/home/arif/jasmin/try_django/src/blog/templates/blog/detail.html",
+		"/home/arif/jasmin/try_django/src/blog/templates/blog/list.html",
+		"/home/arif/jasmin/try_django/src/templates/home.html",
+		"/home/arif/jasmin/try_django/src/templates/js.html",
+		"/home/arif/jasmin/try_django/src/blog/templates/blog/delete.html",
+		"/home/arif/jasmin/try_django/src/templates/base.html",
+		"/home/arif/jasmin/try_django/src/blog/urls.py",
+		"/home/arif/jasmin/try_django/src/try_django/forms.py",
+		"/home/arif/jasmin/try_django/src/blog/templates/blog/form.html",
+		"/home/arif/jasmin/try_django/src/blog/templates/blog/create.html",
+		"/home/arif/jasmin/try_django/src/templates/blog_post_delete.html",
+		"/home/arif/jasmin/try_django/src/templates/blog_post_update.html",
+		"/home/arif/jasmin/try_django/src/blog/templates/blog_post_detail1.html",
+		"/home/arif/jasmin/try_django/src/templates/blog_post_list.html",
+		"/home/arif/jasmin/try_django/src/blog/templates/blog_post_create.html",
+		"/home/arif/jasmin/try_django/src/templates/blog_post_create.html",
+		"/home/arif/jasmin/try_django/src/blog/admin.py",
+		"/home/arif/jasmin/try_django/src/templates/blog_post_detail.html",
+		"/home/arif/jasmin/try_django/src/templates/hello_world.html",
+		"/home/arif/jasmin/try_django/src/templates/about.html",
+		"/home/arif/jasmin/try_django/src/templates/title.txt",
+		"/home/arif/jasmin/try_django/src/templates/bootstrap/css/bootstrap-grid.css",
+		"/home/arif/boss/try_django/src/templates/form.html",
+		"/home/arif/boss/try_django/src/blog/forms.py",
+		"/home/arif/boss/try_django/src/templates/navbar.html",
+		"/home/arif/boss/try_django/src/blog/models.py",
+		"/home/arif/boss/try_django/src/searches/templates/searches/view.html",
+		"/home/arif/boss/try_django/src/try_django/urls.py",
+		"/home/arif/boss/try_django/src/searches/views.py",
+		"/home/arif/boss/try_django/src/try_django/settings.py",
+		"/home/arif/boss/try_django/src/searches/models.py",
+		"/home/arif/boss/try_django/src/searches/admin.py",
+		"/home/arif/boss/try_django/src/blog/views.py",
+		"/home/arif/boss/try_django/src/blog/templates/blog/list-inline.html",
+		"/home/arif/boss/try_django/src/blog/templates/blog/detail.html",
+		"/home/arif/boss/try_django/src/blog/templates/blog_post_create.html",
+		"/home/arif/boss/try_django/src/templates/home.html",
+		"/home/arif/boss/try_django/src/staticfiles  /blank.txt",
+		"/home/arif/boss/try_django/static_cdn_test/media/image/Screenshot_from_2019-05-23_20-56-24.png",
+		"/home/arif/boss/try_django/static_cdn_test/blank/blank.txt",
+		"/home/arif/boss/try_django/src/blog/templates/blog/list.html",
+		"/home/arif/boss/try_django/src/try_django/views.py",
+		"/home/arif/boss/try_django/src/templates/js.html",
+		"/home/arif/boss/try_django/src/templates/base.html",
+		"/home/arif/boss/try_django/src/try_django/forms.py",
+		"/home/arif/boss/try_django/src/blog/templates/blog/delete.html",
+		"/home/arif/boss/try_django/src/blog/urls.py",
+		"/home/arif/boss/try_django/src/blog/templates/blog/form.html",
+		"/home/arif/boss/try_django/src/blog/templates/blog/create.html",
+		"/home/arif/boss/try_django/src/templates/forms.html",
+		"/home/arif/boss/try_django/src/templates/blog_post_detail.html",
+		"/home/arif/boss/try_django/src/templates/blog_post_update.html",
+		"/home/arif/boss/try_django/src/templates/blog_post_create.html",
+		"/home/arif/boss/try_django/src/templates/blog_post_delete.html",
+		"/home/arif/boss/try_django/src/blog/templates/blog_post_detail2.html",
+		"/home/arif/boss/try_django/src/templates/blog_post_list.html",
+		"/home/arif/boss/try_django/src/blog/admin.py",
+		"/home/arif/boss/try_django/Pipfile",
+		"/home/arif/boss/try_django/src/templates/about.html",
+		"/home/arif/boss/try_django/src/templates/title.txt",
+		"/home/arif/boss/try_django/src/templates/hello_world.html",
+		"/home/arif/sir/try_django/src/blog/templates/blog/forms.html",
+		"/home/arif/sir/try_django/src/try_django/forms.py",
+		"/home/arif/sir/try_django/src/blog/templates/blog/create.html",
+		"/home/arif/sir/try_django/src/try_django/settings.py",
+		"/home/arif/sir/try_django/src/blog/views.py",
+		"/home/arif/sir/try_django/src/blog/models.py",
+		"/home/arif/sir/try_django/src/try_django/urls.py",
+		"/home/arif/sir/try_django/src/blog/forms.py",
+		"/home/arif/sir/try_django/src/templates/forms.html",
+		"/home/arif/sir/try_django/src/blog/url.py",
+		"/home/arif/sir/try_django/src/try_django/views.py",
+		"/home/arif/sir/try_django/src/blog/templates/blog/forms.py",
+		"/home/arif/sir/try_django/src/templates/form.html",
+		"/home/arif/sir/try_django/src/templates/base.html",
+		"/home/arif/sir/try_django/src/blog/admin.py",
+		"/home/arif/sir/try_django/src/templates/blog_post_delete.html",
+		"/home/arif/sir/try_django/src/blog/templates/blog_post_detail2.html",
+		"/home/arif/sir/try_django/src/templates/blog_post_detail.html",
+		"/home/arif/sir/try_django/src/templates/blog_post_list.html",
+		"/home/arif/sir/try_django/src/templates/blog_post_create.html",
+		"/home/arif/sir/try_django/src/templates/blog_post_update.html",
+		"/home/arif/sir/try_django/src/templates/blog_post_detail",
+		"/home/arif/sir/try_django/src/templates/home.html",
+		"/home/arif/sir/try_django/src/templates/about.html",
+		"/home/arif/sir/try_django/src/templates/title.txt",
+		"/home/arif/sir/try_django/src/manage.py",
+		"/home/arif/sir/try_django/src/templates/hello_world.html",
+		"/home/arif/sir/try_django/Pipfile",
+		"/home/arif/sir/try_django/Pipfile.lock",
+		"/home/arif/sir/try_django/try_django.sublime-project",
+		"/home/arif/rim/try_django/src/templates/blog_post_detail.html",
+		"/home/arif/rim/try_django/src/templates/blog_post_list.html",
+		"/home/arif/rim/try_django/src/blog/views.py",
+		"/home/arif/rim/try_django/src/blog/admin.py",
+		"/home/arif/rim/try_django/src/try_django/urls.py",
+		"/home/arif/rim/try_django/src/blog/models.py",
+		"/home/arif/rim/try_django/src/try_django/views.py",
+		"/home/arif/rim/try_django/src/try_django/settings.py",
+		"/home/arif/rim/try_django/src/templates/hello_world.html",
+		"/home/arif/rim/try_django/src/templates/home.html",
+		"/home/arif/rim/try_django/src/templates/base.html",
+		"/home/arif/rim/try_django/src/templates/about.html",
+		"/home/arif/rim/try_django/src/templates/title.txt",
+		"/home/arif/dev/try_django/src/template/hello_world.html",
+		"/home/arif/dev/try_django/src/try_django/settings.py",
+		"/home/arif/dev/try_django/src/try_django/urls.py",
+		"/home/arif/dev/try_django/src/template/base.html",
+		"/home/arif/dev/try_django/src/template/about.html",
+		"/home/arif/dev/try_django/src/try_django/views.py",
+		"/home/arif/dev/try_django/src/template/hello.txt",
+		"/home/arif/dev/try_django/try_django",
+		"/home/arif/dev/try_django/lib/python3.6/site-packages/django/http/response.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 31.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "t_django.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/fite/lite.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
